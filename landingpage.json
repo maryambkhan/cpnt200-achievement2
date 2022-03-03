@@ -1,0 +1,89 @@
+{
+    "story": {
+        "name": "landing page",
+        "created_at": "2022-03-03T21:12:43.219Z",
+        "published_at": null,
+        "id": 112885254,
+        "uuid": "ddbaf75c-b162-4257-aa00-f917f5e063e7",
+        "content": {
+            "_uid": "4f66bdb9-4549-49ce-9f42-7a4a729d1db6",
+            "body": [
+                {
+                    "_uid": "e536a3fd-9525-408b-976c-0ee8189fc61f",
+                    "title": "Braggers Golf",
+                    "sub_text": "Live your life.",
+                    "subtitle": "The only sreen golf system that hasn't any disparity with the real field",
+                    "component": "body",
+                    "call_to_action": [
+                        {
+                            "cta": "Book Now",
+                            "_uid": "fbe79922-a322-4235-b60a-edc83457ea91",
+                            "component": "call_to_action",
+                            "_editable": "\u003c!--#storyblok#{\"name\": \"call_to_action\", \"space\": \"149002\", \"uid\": \"fbe79922-a322-4235-b60a-edc83457ea91\", \"id\": \"112885254\"}--\u003e"
+                        }
+                    ],
+                    "background_image": {
+                        "id": 3976468,
+                        "alt": "",
+                        "name": "",
+                        "focus": null,
+                        "title": "",
+                        "filename": "https://a.storyblok.com/f/149002/1280x814/e68361a277/rec-png.jpg",
+                        "copyright": "",
+                        "fieldtype": "asset"
+                    },
+                    "_editable": "\u003c!--#storyblok#{\"name\": \"body\", \"space\": \"149002\", \"uid\": \"e536a3fd-9525-408b-976c-0ee8189fc61f\", \"id\": \"112885254\"}--\u003e"
+                }
+            ],
+            "logo": "//a.storyblok.com/f/149002/720x240/868feb22d4/istockphoto-1169299632-170667a.jpg",
+            "component": "nav_bar",
+            "nav_links": [
+                {
+                    "_uid": "eafd5898-2dd8-4ed1-ad14-ea27700762b2",
+                    "component": "nav_links",
+                    "nav_link1": {
+                        "id": "a1d19f60-1820-49ea-b189-4ad8308dc5b5",
+                        "url": "",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": "home"
+                    },
+                    "nav_link2": {
+                        "id": "",
+                        "url": "",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": ""
+                    },
+                    "_editable": "\u003c!--#storyblok#{\"name\": \"nav_links\", \"space\": \"149002\", \"uid\": \"eafd5898-2dd8-4ed1-ad14-ea27700762b2\", \"id\": \"112885254\"}--\u003e"
+                },
+                {
+                    "cta": "Book Now",
+                    "_uid": "a731efea-0e9e-4267-8289-3709215860c3",
+                    "component": "call_to_action",
+                    "_editable": "\u003c!--#storyblok#{\"name\": \"call_to_action\", \"space\": \"149002\", \"uid\": \"a731efea-0e9e-4267-8289-3709215860c3\", \"id\": \"112885254\"}--\u003e"
+                }
+            ],
+            "_editable": "\u003c!--#storyblok#{\"name\": \"nav_bar\", \"space\": \"149002\", \"uid\": \"4f66bdb9-4549-49ce-9f42-7a4a729d1db6\", \"id\": \"112885254\"}--\u003e"
+        },
+        "slug": "landing-page",
+        "full_slug": "braggers-golf/landing-page",
+        "sort_by_date": null,
+        "position": 0,
+        "tag_list": [],
+        "is_startpage": false,
+        "parent_id": 112885251,
+        "meta_data": null,
+        "group_id": "7aa08096-653e-4d1e-beef-2952e4046185",
+        "first_published_at": null,
+        "release_id": null,
+        "lang": "default",
+        "path": null,
+        "alternates": [],
+        "default_full_slug": null,
+        "translated_slugs": null
+    },
+    "cv": 1646344001,
+    "rels": [],
+    "links": []
+}
